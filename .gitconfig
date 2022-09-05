@@ -1,0 +1,12 @@
+[alias]
+    cm = commit 
+    co = checkout
+    br = branch
+    nb = checkout -b 
+    hide = stash
+    applyHide = stash apply
+    seeRemotes = remote -v
+
+
+
+
